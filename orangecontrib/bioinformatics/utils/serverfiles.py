@@ -5,7 +5,7 @@ import serverfiles
 
 from orangecontrib.bioinformatics.utils import local_cache
 
-version = 'v1'
+version = '2020_04_05'
 server_url = f'https://download.biolab.si/datasets/bioinformatics/{version}/'
 
 
